@@ -1,0 +1,7 @@
+
+[build]
+  publish = "/"
+  command = ""
+
+[context.production.environment]
+  HUGO_ENABLEGITINFO = "true"
